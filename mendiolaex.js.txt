@@ -1,0 +1,9 @@
+let a = 'Vicente Monfort'; //Daniel Mendiola Ruiz
+
+let b = a.length;
+
+for(i=0;i<=b;i++){
+
+console.log(a[i]);
+
+}
